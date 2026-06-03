@@ -1,0 +1,5 @@
+{
+  "tests/test_analytics.py": true,
+  "tests/test_api_events.py": true,
+  "tests/test_cv_pipeline.py": true
+}
